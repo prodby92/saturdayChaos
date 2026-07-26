@@ -1,0 +1,5 @@
+Displays the tamale text and bounces both characters.
+
+Value 1: Bounce strength from 1 (normal) to 10 (extreme). Leave blank for 1.
+
+Value 2: Unused.

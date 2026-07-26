@@ -1,0 +1,63 @@
+{
+	"animations": [
+		{
+			"offsets": [-15, -191],
+			"indices": [],
+			"fps": 12,
+			"anim": "idle",
+			"loop": false,
+			"name": "coolswag-opp Idle"
+		},
+		{
+			"offsets": [-18, -190],
+			"indices": [],
+			"fps": 12,
+			"anim": "singUP",
+			"loop": false,
+			"name": "coolswag-opp Up"
+		},
+		{
+			"offsets": [-12, -227],
+			"indices": [],
+			"fps": 12,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "coolswag-opp Dow"
+		},
+		{
+			"offsets": [-4, -217],
+			"indices": [],
+			"fps": 12,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "coolswag-opp Left"
+		},
+		{
+			"offsets": [-13, -216],
+			"indices": [],
+			"fps": 12,
+			"anim": "singLEFTalt",
+			"loop": false,
+			"name": "coolswag-opp Alt Left"
+		},
+		{
+			"offsets": [-30, -197],
+			"indices": [],
+			"fps": 12,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "coolswag-opp Right"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": true,
+	"image": "characters/coolswag-opp",
+	"position": [0, 0],
+	"healthicon": "coolswag",
+	"flip_x": false,
+	"healthbar_colors": [255, 255, 255],
+	"camera_position": [0, 0],
+	"sing_duration": 4,
+	"scale": 1.6,
+	"_editor_isPlayer": false
+}

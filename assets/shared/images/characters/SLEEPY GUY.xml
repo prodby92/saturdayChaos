@@ -1,0 +1,167 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="SLEEPY GUY.png">
+	<!-- Created with Adobe Animate version 22.0.1.105 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="SLEEPY -_-0000" x="0" y="0" width="468" height="478"/>
+	<SubTexture name="SLEEPY -_-0001" x="468" y="0" width="466" height="474" frameX="0" frameY="-4" frameWidth="468" frameHeight="478"/>
+	<SubTexture name="SLEEPY -_-0002" x="934" y="0" width="465" height="470" frameX="0" frameY="-8" frameWidth="468" frameHeight="478"/>
+	<SubTexture name="SLEEPY -_-0003" x="1399" y="0" width="464" height="466" frameX="0" frameY="-12" frameWidth="468" frameHeight="478"/>
+	<SubTexture name="SLEEPY -_-0004" x="1863" y="0" width="463" height="462" frameX="0" frameY="-16" frameWidth="468" frameHeight="478"/>
+	<SubTexture name="SLEEPY -_-0005" x="2326" y="0" width="462" height="462" frameX="0" frameY="-16" frameWidth="468" frameHeight="478"/>
+	<SubTexture name="SLEEPY -_-0006" x="2788" y="0" width="461" height="461" frameX="0" frameY="-17" frameWidth="468" frameHeight="478"/>
+	<SubTexture name="SLEEPY -_-0007" x="3249" y="0" width="461" height="460" frameX="0" frameY="-18" frameWidth="468" frameHeight="478"/>
+	<SubTexture name="SLEEPY -_-0008" x="0" y="478" width="462" height="464" frameX="0" frameY="-14" frameWidth="468" frameHeight="478"/>
+	<SubTexture name="SLEEPY -_-0009" x="462" y="478" width="463" height="467" frameX="0" frameY="-11" frameWidth="468" frameHeight="478"/>
+	<SubTexture name="SLEEPY -_-0010" x="925" y="478" width="464" height="471" frameX="0" frameY="-7" frameWidth="468" frameHeight="478"/>
+	<SubTexture name="SLEEPY -_-0011" x="1389" y="478" width="465" height="474" frameX="0" frameY="-4" frameWidth="468" frameHeight="478"/>
+	<SubTexture name="SLEEPY -_-0012" x="1854" y="478" width="459" height="474" frameX="0" frameY="-4" frameWidth="468" frameHeight="478"/>
+	<SubTexture name="SLEEPY -_-0013" x="2313" y="478" width="454" height="475" frameX="0" frameY="-3" frameWidth="468" frameHeight="478"/>
+	<SubTexture name="SLEEPY -_-0014" x="2767" y="478" width="448" height="475" frameX="0" frameY="-3" frameWidth="468" frameHeight="478"/>
+	<SubTexture name="SLEEPY -_-0015" x="3215" y="478" width="442" height="475" frameX="0" frameY="-3" frameWidth="468" frameHeight="478"/>
+	<SubTexture name="SLEEPY -_-0016" x="3657" y="478" width="437" height="475" frameX="0" frameY="-3" frameWidth="468" frameHeight="478"/>
+	<SubTexture name="SLEEPY -_-0017" x="0" y="953" width="437" height="472" frameX="0" frameY="-6" frameWidth="468" frameHeight="478"/>
+	<SubTexture name="SLEEPY -_-0018" x="437" y="953" width="437" height="468" frameX="0" frameY="-10" frameWidth="468" frameHeight="478"/>
+	<SubTexture name="SLEEPY -_-0019" x="874" y="953" width="437" height="465" frameX="0" frameY="-13" frameWidth="468" frameHeight="478"/>
+	<SubTexture name="SLEEPY -_-0020" x="1311" y="953" width="437" height="461" frameX="0" frameY="-17" frameWidth="468" frameHeight="478"/>
+	<SubTexture name="SLEEPY -_-0021" x="1311" y="953" width="437" height="461" frameX="0" frameY="-17" frameWidth="468" frameHeight="478"/>
+	<SubTexture name="SLEEPY -_-0022" x="1311" y="953" width="437" height="461" frameX="0" frameY="-17" frameWidth="468" frameHeight="478"/>
+	<SubTexture name="SLEEPY -_-0023" x="1311" y="953" width="437" height="461" frameX="0" frameY="-17" frameWidth="468" frameHeight="478"/>
+	<SubTexture name="SLEEPY -_-0024" x="1311" y="953" width="437" height="461" frameX="0" frameY="-17" frameWidth="468" frameHeight="478"/>
+	<SubTexture name="SLEEPY -_-0025" x="1311" y="953" width="437" height="461" frameX="0" frameY="-17" frameWidth="468" frameHeight="478"/>
+	<SubTexture name="SLEEPY NOTE DOWN0000" x="1748" y="953" width="464" height="418" frameX="-1" frameY="-19" frameWidth="465" frameHeight="437"/>
+	<SubTexture name="SLEEPY NOTE DOWN0001" x="1748" y="953" width="464" height="418" frameX="-1" frameY="-19" frameWidth="465" frameHeight="437"/>
+	<SubTexture name="SLEEPY NOTE DOWN0002" x="2212" y="953" width="453" height="437" frameX="0" frameY="0" frameWidth="465" frameHeight="437"/>
+	<SubTexture name="SLEEPY NOTE DOWN0003" x="2212" y="953" width="453" height="437" frameX="0" frameY="0" frameWidth="465" frameHeight="437"/>
+	<SubTexture name="SLEEPY NOTE DOWN0004" x="2212" y="953" width="453" height="437" frameX="0" frameY="0" frameWidth="465" frameHeight="437"/>
+	<SubTexture name="SLEEPY NOTE DOWN0005" x="2212" y="953" width="453" height="437" frameX="0" frameY="0" frameWidth="465" frameHeight="437"/>
+	<SubTexture name="SLEEPY NOTE DOWN0006" x="2212" y="953" width="453" height="437" frameX="0" frameY="0" frameWidth="465" frameHeight="437"/>
+	<SubTexture name="SLEEPY NOTE DOWN0007" x="2212" y="953" width="453" height="437" frameX="0" frameY="0" frameWidth="465" frameHeight="437"/>
+	<SubTexture name="SLEEPY NOTE DOWN0008" x="2212" y="953" width="453" height="437" frameX="0" frameY="0" frameWidth="465" frameHeight="437"/>
+	<SubTexture name="SLEEPY NOTE DOWN0009" x="2212" y="953" width="453" height="437" frameX="0" frameY="0" frameWidth="465" frameHeight="437"/>
+	<SubTexture name="SLEEPY NOTE DOWN0010" x="2212" y="953" width="453" height="437" frameX="0" frameY="0" frameWidth="465" frameHeight="437"/>
+	<SubTexture name="SLEEPY NOTE DOWN0011" x="2212" y="953" width="453" height="437" frameX="0" frameY="0" frameWidth="465" frameHeight="437"/>
+	<SubTexture name="SLEEPY NOTE DOWN0012" x="2212" y="953" width="453" height="437" frameX="0" frameY="0" frameWidth="465" frameHeight="437"/>
+	<SubTexture name="SLEEPY NOTE DOWN0013" x="2212" y="953" width="453" height="437" frameX="0" frameY="0" frameWidth="465" frameHeight="437"/>
+	<SubTexture name="SLEEPY NOTE DOWN0014" x="2212" y="953" width="453" height="437" frameX="0" frameY="0" frameWidth="465" frameHeight="437"/>
+	<SubTexture name="SLEEPY NOTE DOWN0015" x="2212" y="953" width="453" height="437" frameX="0" frameY="0" frameWidth="465" frameHeight="437"/>
+	<SubTexture name="SLEEPY NOTE DOWN0016" x="2212" y="953" width="453" height="437" frameX="0" frameY="0" frameWidth="465" frameHeight="437"/>
+	<SubTexture name="SLEEPY NOTE DOWN0017" x="2212" y="953" width="453" height="437" frameX="0" frameY="0" frameWidth="465" frameHeight="437"/>
+	<SubTexture name="SLEEPY NOTE DOWN0018" x="2212" y="953" width="453" height="437" frameX="0" frameY="0" frameWidth="465" frameHeight="437"/>
+	<SubTexture name="SLEEPY NOTE DOWN0019" x="2212" y="953" width="453" height="437" frameX="0" frameY="0" frameWidth="465" frameHeight="437"/>
+	<SubTexture name="SLEEPY NOTE DOWN0020" x="2212" y="953" width="453" height="437" frameX="0" frameY="0" frameWidth="465" frameHeight="437"/>
+	<SubTexture name="SLEEPY NOTE DOWN0021" x="2212" y="953" width="453" height="437" frameX="0" frameY="0" frameWidth="465" frameHeight="437"/>
+	<SubTexture name="SLEEPY NOTE DOWN0022" x="2212" y="953" width="453" height="437" frameX="0" frameY="0" frameWidth="465" frameHeight="437"/>
+	<SubTexture name="SLEEPY NOTE DOWN0023" x="2212" y="953" width="453" height="437" frameX="0" frameY="0" frameWidth="465" frameHeight="437"/>
+	<SubTexture name="SLEEPY NOTE DOWN0024" x="2212" y="953" width="453" height="437" frameX="0" frameY="0" frameWidth="465" frameHeight="437"/>
+	<SubTexture name="SLEEPY NOTE DOWN0025" x="2212" y="953" width="453" height="437" frameX="0" frameY="0" frameWidth="465" frameHeight="437"/>
+	<SubTexture name="SLEEPY NOTE DOWN0026" x="2212" y="953" width="453" height="437" frameX="0" frameY="0" frameWidth="465" frameHeight="437"/>
+	<SubTexture name="SLEEPY NOTE DOWN0027" x="2212" y="953" width="453" height="437" frameX="0" frameY="0" frameWidth="465" frameHeight="437"/>
+	<SubTexture name="SLEEPY NOTE DOWN0028" x="2212" y="953" width="453" height="437" frameX="0" frameY="0" frameWidth="465" frameHeight="437"/>
+	<SubTexture name="SLEEPY NOTE DOWN0029" x="2212" y="953" width="453" height="437" frameX="0" frameY="0" frameWidth="465" frameHeight="437"/>
+	<SubTexture name="SLEEPY NOTE LEFT0000" x="2665" y="953" width="464" height="474" frameX="0" frameY="0" frameWidth="468" frameHeight="474"/>
+	<SubTexture name="SLEEPY NOTE LEFT0001" x="2665" y="953" width="464" height="474" frameX="0" frameY="0" frameWidth="468" frameHeight="474"/>
+	<SubTexture name="SLEEPY NOTE LEFT0002" x="3129" y="953" width="457" height="465" frameX="-11" frameY="-9" frameWidth="468" frameHeight="474"/>
+	<SubTexture name="SLEEPY NOTE LEFT0003" x="3129" y="953" width="457" height="465" frameX="-11" frameY="-9" frameWidth="468" frameHeight="474"/>
+	<SubTexture name="SLEEPY NOTE LEFT0004" x="3129" y="953" width="457" height="465" frameX="-11" frameY="-9" frameWidth="468" frameHeight="474"/>
+	<SubTexture name="SLEEPY NOTE LEFT0005" x="3129" y="953" width="457" height="465" frameX="-11" frameY="-9" frameWidth="468" frameHeight="474"/>
+	<SubTexture name="SLEEPY NOTE LEFT0006" x="3129" y="953" width="457" height="465" frameX="-11" frameY="-9" frameWidth="468" frameHeight="474"/>
+	<SubTexture name="SLEEPY NOTE LEFT0007" x="3129" y="953" width="457" height="465" frameX="-11" frameY="-9" frameWidth="468" frameHeight="474"/>
+	<SubTexture name="SLEEPY NOTE LEFT0008" x="3129" y="953" width="457" height="465" frameX="-11" frameY="-9" frameWidth="468" frameHeight="474"/>
+	<SubTexture name="SLEEPY NOTE LEFT0009" x="3129" y="953" width="457" height="465" frameX="-11" frameY="-9" frameWidth="468" frameHeight="474"/>
+	<SubTexture name="SLEEPY NOTE LEFT0010" x="3129" y="953" width="457" height="465" frameX="-11" frameY="-9" frameWidth="468" frameHeight="474"/>
+	<SubTexture name="SLEEPY NOTE LEFT0011" x="3129" y="953" width="457" height="465" frameX="-11" frameY="-9" frameWidth="468" frameHeight="474"/>
+	<SubTexture name="SLEEPY NOTE LEFT0012" x="3129" y="953" width="457" height="465" frameX="-11" frameY="-9" frameWidth="468" frameHeight="474"/>
+	<SubTexture name="SLEEPY NOTE LEFT0013" x="3129" y="953" width="457" height="465" frameX="-11" frameY="-9" frameWidth="468" frameHeight="474"/>
+	<SubTexture name="SLEEPY NOTE LEFT0014" x="3586" y="953" width="450" height="465" frameX="-11" frameY="-9" frameWidth="468" frameHeight="474"/>
+	<SubTexture name="SLEEPY NOTE RIGHT0000" x="0" y="1427" width="487" height="490" frameX="-1" frameY="0" frameWidth="506" frameHeight="490"/>
+	<SubTexture name="SLEEPY NOTE RIGHT0001" x="0" y="1427" width="487" height="490" frameX="-1" frameY="0" frameWidth="506" frameHeight="490"/>
+	<SubTexture name="SLEEPY NOTE RIGHT0002" x="487" y="1427" width="506" height="474" frameX="0" frameY="-16" frameWidth="506" frameHeight="490"/>
+	<SubTexture name="SLEEPY NOTE RIGHT0003" x="487" y="1427" width="506" height="474" frameX="0" frameY="-16" frameWidth="506" frameHeight="490"/>
+	<SubTexture name="SLEEPY NOTE RIGHT0004" x="487" y="1427" width="506" height="474" frameX="0" frameY="-16" frameWidth="506" frameHeight="490"/>
+	<SubTexture name="SLEEPY NOTE RIGHT0005" x="487" y="1427" width="506" height="474" frameX="0" frameY="-16" frameWidth="506" frameHeight="490"/>
+	<SubTexture name="SLEEPY NOTE RIGHT0006" x="487" y="1427" width="506" height="474" frameX="0" frameY="-16" frameWidth="506" frameHeight="490"/>
+	<SubTexture name="SLEEPY NOTE RIGHT0007" x="487" y="1427" width="506" height="474" frameX="0" frameY="-16" frameWidth="506" frameHeight="490"/>
+	<SubTexture name="SLEEPY NOTE RIGHT0008" x="487" y="1427" width="506" height="474" frameX="0" frameY="-16" frameWidth="506" frameHeight="490"/>
+	<SubTexture name="SLEEPY NOTE RIGHT0009" x="487" y="1427" width="506" height="474" frameX="0" frameY="-16" frameWidth="506" frameHeight="490"/>
+	<SubTexture name="SLEEPY NOTE RIGHT0010" x="487" y="1427" width="506" height="474" frameX="0" frameY="-16" frameWidth="506" frameHeight="490"/>
+	<SubTexture name="SLEEPY NOTE RIGHT0011" x="487" y="1427" width="506" height="474" frameX="0" frameY="-16" frameWidth="506" frameHeight="490"/>
+	<SubTexture name="SLEEPY NOTE RIGHT0012" x="487" y="1427" width="506" height="474" frameX="0" frameY="-16" frameWidth="506" frameHeight="490"/>
+	<SubTexture name="SLEEPY NOTE RIGHT0013" x="487" y="1427" width="506" height="474" frameX="0" frameY="-16" frameWidth="506" frameHeight="490"/>
+	<SubTexture name="SLEEPY NOTE RIGHT0014" x="487" y="1427" width="506" height="474" frameX="0" frameY="-16" frameWidth="506" frameHeight="490"/>
+	<SubTexture name="SLEEPY NOTE RIGHT0015" x="487" y="1427" width="506" height="474" frameX="0" frameY="-16" frameWidth="506" frameHeight="490"/>
+	<SubTexture name="SLEEPY NOTE RIGHT0016" x="487" y="1427" width="506" height="474" frameX="0" frameY="-16" frameWidth="506" frameHeight="490"/>
+	<SubTexture name="SLEEPY NOTE RIGHT0017" x="487" y="1427" width="506" height="474" frameX="0" frameY="-16" frameWidth="506" frameHeight="490"/>
+	<SubTexture name="SLEEPY NOTE RIGHT0018" x="487" y="1427" width="506" height="474" frameX="0" frameY="-16" frameWidth="506" frameHeight="490"/>
+	<SubTexture name="SLEEPY NOTE RIGHT0019" x="487" y="1427" width="506" height="474" frameX="0" frameY="-16" frameWidth="506" frameHeight="490"/>
+	<SubTexture name="SLEEPY NOTE RIGHT0020" x="487" y="1427" width="506" height="474" frameX="0" frameY="-16" frameWidth="506" frameHeight="490"/>
+	<SubTexture name="SLEEPY NOTE RIGHT0021" x="487" y="1427" width="506" height="474" frameX="0" frameY="-16" frameWidth="506" frameHeight="490"/>
+	<SubTexture name="SLEEPY NOTE RIGHT0022" x="487" y="1427" width="506" height="474" frameX="0" frameY="-16" frameWidth="506" frameHeight="490"/>
+	<SubTexture name="SLEEPY NOTE RIGHT0023" x="487" y="1427" width="506" height="474" frameX="0" frameY="-16" frameWidth="506" frameHeight="490"/>
+	<SubTexture name="SLEEPY NOTE RIGHT0024" x="487" y="1427" width="506" height="474" frameX="0" frameY="-16" frameWidth="506" frameHeight="490"/>
+	<SubTexture name="SLEEPY NOTE RIGHT0025" x="487" y="1427" width="506" height="474" frameX="0" frameY="-16" frameWidth="506" frameHeight="490"/>
+	<SubTexture name="SLEEPY NOTE RIGHT0026" x="487" y="1427" width="506" height="474" frameX="0" frameY="-16" frameWidth="506" frameHeight="490"/>
+	<SubTexture name="SLEEPY NOTE RIGHT0027" x="487" y="1427" width="506" height="474" frameX="0" frameY="-16" frameWidth="506" frameHeight="490"/>
+	<SubTexture name="SLEEPY NOTE RIGHT0028" x="487" y="1427" width="506" height="474" frameX="0" frameY="-16" frameWidth="506" frameHeight="490"/>
+	<SubTexture name="SLEEPY NOTE RIGHT0029" x="487" y="1427" width="506" height="474" frameX="0" frameY="-16" frameWidth="506" frameHeight="490"/>
+	<SubTexture name="SLEEPY NOTE RIGHT0030" x="487" y="1427" width="506" height="474" frameX="0" frameY="-16" frameWidth="506" frameHeight="490"/>
+	<SubTexture name="SLEEPY NOTE RIGHT0031" x="487" y="1427" width="506" height="474" frameX="0" frameY="-16" frameWidth="506" frameHeight="490"/>
+	<SubTexture name="SLEEPY NOTE RIGHT0032" x="487" y="1427" width="506" height="474" frameX="0" frameY="-16" frameWidth="506" frameHeight="490"/>
+	<SubTexture name="SLEEPY NOTE RIGHT0033" x="487" y="1427" width="506" height="474" frameX="0" frameY="-16" frameWidth="506" frameHeight="490"/>
+	<SubTexture name="SLEEPY NOTE RIGHT0034" x="487" y="1427" width="506" height="474" frameX="0" frameY="-16" frameWidth="506" frameHeight="490"/>
+	<SubTexture name="SLEEPY NOTE RIGHT0035" x="487" y="1427" width="506" height="474" frameX="0" frameY="-16" frameWidth="506" frameHeight="490"/>
+	<SubTexture name="SLEEPY NOTE RIGHT0036" x="487" y="1427" width="506" height="474" frameX="0" frameY="-16" frameWidth="506" frameHeight="490"/>
+	<SubTexture name="SLEEPY NOTE RIGHT0037" x="487" y="1427" width="506" height="474" frameX="0" frameY="-16" frameWidth="506" frameHeight="490"/>
+	<SubTexture name="SLEEPY NOTE RIGHT0038" x="487" y="1427" width="506" height="474" frameX="0" frameY="-16" frameWidth="506" frameHeight="490"/>
+	<SubTexture name="SLEEPY NOTE RIGHT0039" x="487" y="1427" width="506" height="474" frameX="0" frameY="-16" frameWidth="506" frameHeight="490"/>
+	<SubTexture name="SLEEPY NOTE RIGHT0040" x="487" y="1427" width="506" height="474" frameX="0" frameY="-16" frameWidth="506" frameHeight="490"/>
+	<SubTexture name="SLEEPY NOTE RIGHT0041" x="487" y="1427" width="506" height="474" frameX="0" frameY="-16" frameWidth="506" frameHeight="490"/>
+	<SubTexture name="SLEEPY NOTE RIGHT0042" x="487" y="1427" width="506" height="474" frameX="0" frameY="-16" frameWidth="506" frameHeight="490"/>
+	<SubTexture name="SLEEPY NOTE RIGHT0043" x="487" y="1427" width="506" height="474" frameX="0" frameY="-16" frameWidth="506" frameHeight="490"/>
+	<SubTexture name="SLEEPY NOTE RIGHT0044" x="487" y="1427" width="506" height="474" frameX="0" frameY="-16" frameWidth="506" frameHeight="490"/>
+	<SubTexture name="SLEEPY NOTE RIGHT0045" x="487" y="1427" width="506" height="474" frameX="0" frameY="-16" frameWidth="506" frameHeight="490"/>
+	<SubTexture name="SLEEPY NOTE RIGHT0046" x="487" y="1427" width="506" height="474" frameX="0" frameY="-16" frameWidth="506" frameHeight="490"/>
+	<SubTexture name="SLEEPY NOTE RIGHT0047" x="487" y="1427" width="506" height="474" frameX="0" frameY="-16" frameWidth="506" frameHeight="490"/>
+	<SubTexture name="SLEEPY NOTE RIGHT0048" x="487" y="1427" width="506" height="474" frameX="0" frameY="-16" frameWidth="506" frameHeight="490"/>
+	<SubTexture name="SLEEPY NOTE RIGHT0049" x="487" y="1427" width="506" height="474" frameX="0" frameY="-16" frameWidth="506" frameHeight="490"/>
+	<SubTexture name="SLEEPY NOTE RIGHT0050" x="487" y="1427" width="506" height="474" frameX="0" frameY="-16" frameWidth="506" frameHeight="490"/>
+	<SubTexture name="SLEEPY NOTE RIGHT0051" x="487" y="1427" width="506" height="474" frameX="0" frameY="-16" frameWidth="506" frameHeight="490"/>
+	<SubTexture name="SLEEPY NOTE RIGHT0052" x="487" y="1427" width="506" height="474" frameX="0" frameY="-16" frameWidth="506" frameHeight="490"/>
+	<SubTexture name="SLEEPY NOTE RIGHT0053" x="487" y="1427" width="506" height="474" frameX="0" frameY="-16" frameWidth="506" frameHeight="490"/>
+	<SubTexture name="SLEEPY NOTE RIGHT0054" x="487" y="1427" width="506" height="474" frameX="0" frameY="-16" frameWidth="506" frameHeight="490"/>
+	<SubTexture name="SLEEPY NOTE RIGHT0055" x="487" y="1427" width="506" height="474" frameX="0" frameY="-16" frameWidth="506" frameHeight="490"/>
+	<SubTexture name="SLEEPY NOTE RIGHT0056" x="487" y="1427" width="506" height="474" frameX="0" frameY="-16" frameWidth="506" frameHeight="490"/>
+	<SubTexture name="SLEEPY NOTE RIGHT0057" x="487" y="1427" width="506" height="474" frameX="0" frameY="-16" frameWidth="506" frameHeight="490"/>
+	<SubTexture name="SLEEPY NOTE RIGHT0058" x="487" y="1427" width="506" height="474" frameX="0" frameY="-16" frameWidth="506" frameHeight="490"/>
+	<SubTexture name="SLEEPY NOTE RIGHT0059" x="487" y="1427" width="506" height="474" frameX="0" frameY="-16" frameWidth="506" frameHeight="490"/>
+	<SubTexture name="SLEEPY NOTE RIGHT0060" x="487" y="1427" width="506" height="474" frameX="0" frameY="-16" frameWidth="506" frameHeight="490"/>
+	<SubTexture name="SLEEPY NOTE RIGHT0061" x="487" y="1427" width="506" height="474" frameX="0" frameY="-16" frameWidth="506" frameHeight="490"/>
+	<SubTexture name="SLEEPY NOTE UP0000" x="993" y="1427" width="534" height="446" frameX="-5" frameY="0" frameWidth="539" frameHeight="446"/>
+	<SubTexture name="SLEEPY NOTE UP0001" x="993" y="1427" width="534" height="446" frameX="-5" frameY="0" frameWidth="539" frameHeight="446"/>
+	<SubTexture name="SLEEPY NOTE UP0002" x="1527" y="1427" width="520" height="441" frameX="0" frameY="-5" frameWidth="539" frameHeight="446"/>
+	<SubTexture name="SLEEPY NOTE UP0003" x="1527" y="1427" width="520" height="441" frameX="0" frameY="-5" frameWidth="539" frameHeight="446"/>
+	<SubTexture name="SLEEPY NOTE UP0004" x="1527" y="1427" width="520" height="441" frameX="0" frameY="-5" frameWidth="539" frameHeight="446"/>
+	<SubTexture name="SLEEPY NOTE UP0005" x="1527" y="1427" width="520" height="441" frameX="0" frameY="-5" frameWidth="539" frameHeight="446"/>
+	<SubTexture name="SLEEPY NOTE UP0006" x="1527" y="1427" width="520" height="441" frameX="0" frameY="-5" frameWidth="539" frameHeight="446"/>
+	<SubTexture name="SLEEPY NOTE UP0007" x="1527" y="1427" width="520" height="441" frameX="0" frameY="-5" frameWidth="539" frameHeight="446"/>
+	<SubTexture name="SLEEPY NOTE UP0008" x="1527" y="1427" width="520" height="441" frameX="0" frameY="-5" frameWidth="539" frameHeight="446"/>
+	<SubTexture name="SLEEPY NOTE UP0009" x="1527" y="1427" width="520" height="441" frameX="0" frameY="-5" frameWidth="539" frameHeight="446"/>
+	<SubTexture name="SLEEPY NOTE UP0010" x="1527" y="1427" width="520" height="441" frameX="0" frameY="-5" frameWidth="539" frameHeight="446"/>
+	<SubTexture name="SLEEPY NOTE UP0011" x="1527" y="1427" width="520" height="441" frameX="0" frameY="-5" frameWidth="539" frameHeight="446"/>
+	<SubTexture name="SLEEPY NOTE UP0012" x="1527" y="1427" width="520" height="441" frameX="0" frameY="-5" frameWidth="539" frameHeight="446"/>
+	<SubTexture name="SLEEPY NOTE UP0013" x="1527" y="1427" width="520" height="441" frameX="0" frameY="-5" frameWidth="539" frameHeight="446"/>
+	<SubTexture name="SLEEPY NOTE UP0014" x="1527" y="1427" width="520" height="441" frameX="0" frameY="-5" frameWidth="539" frameHeight="446"/>
+	<SubTexture name="SLEEPY idle dance0000" x="2047" y="1427" width="450" height="456" frameX="0" frameY="-9" frameWidth="474" frameHeight="465"/>
+	<SubTexture name="SLEEPY idle dance0001" x="2047" y="1427" width="450" height="456" frameX="0" frameY="-9" frameWidth="474" frameHeight="465"/>
+	<SubTexture name="SLEEPY idle dance0002" x="2497" y="1427" width="447" height="465" frameX="-1" frameY="0" frameWidth="474" frameHeight="465"/>
+	<SubTexture name="SLEEPY idle dance0003" x="2497" y="1427" width="447" height="465" frameX="-1" frameY="0" frameWidth="474" frameHeight="465"/>
+	<SubTexture name="SLEEPY idle dance0004" x="2944" y="1427" width="455" height="455" frameX="-3" frameY="-10" frameWidth="474" frameHeight="465"/>
+	<SubTexture name="SLEEPY idle dance0005" x="2944" y="1427" width="455" height="455" frameX="-3" frameY="-10" frameWidth="474" frameHeight="465"/>
+	<SubTexture name="SLEEPY idle dance0006" x="3399" y="1427" width="470" height="448" frameX="-3" frameY="-17" frameWidth="474" frameHeight="465"/>
+	<SubTexture name="SLEEPY idle dance0007" x="3399" y="1427" width="470" height="448" frameX="-3" frameY="-17" frameWidth="474" frameHeight="465"/>
+	<SubTexture name="SLEEPY idle dance0008" x="0" y="1917" width="471" height="447" frameX="-3" frameY="-18" frameWidth="474" frameHeight="465"/>
+	<SubTexture name="SLEEPY idle dance0009" x="0" y="1917" width="471" height="447" frameX="-3" frameY="-18" frameWidth="474" frameHeight="465"/>
+	<SubTexture name="SLEEPY idle dance0010" x="0" y="1917" width="471" height="447" frameX="-3" frameY="-18" frameWidth="474" frameHeight="465"/>
+	<SubTexture name="SLEEPY idle dance0011" x="0" y="1917" width="471" height="447" frameX="-3" frameY="-18" frameWidth="474" frameHeight="465"/>
+	<SubTexture name="SLEEPY idle dance0012" x="0" y="1917" width="471" height="447" frameX="-3" frameY="-18" frameWidth="474" frameHeight="465"/>
+	<SubTexture name="SLEEPY idle dance0013" x="0" y="1917" width="471" height="447" frameX="-3" frameY="-18" frameWidth="474" frameHeight="465"/>
+</TextureAtlas>

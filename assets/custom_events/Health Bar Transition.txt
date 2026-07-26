@@ -1,0 +1,5 @@
+Slides the health bar on and off screen
+
+Value 1: 
+0 - Hides the health bar
+1 - Shows the health bar

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Untitled-1.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="0000.png" x="91" y="91" width="1920" height="1080"/>
+	<SubTexture name="0001.png" x="2011" y="91" width="1920" height="1080"/>
+	<SubTexture name="0002.png" x="3931" y="91" width="1920" height="1080"/>
+	<SubTexture name="0003.png" x="5851" y="91" width="1920" height="1080"/>
+	<SubTexture name="0004.png" x="91" y="1171" width="1920" height="1080"/>
+	<SubTexture name="0005.png" x="2011" y="1171" width="1920" height="1080"/>
+	<SubTexture name="0006.png" x="3931" y="1171" width="1920" height="1080"/>
+	<SubTexture name="0007.png" x="5851" y="1171" width="1920" height="1080"/>
+	<SubTexture name="0008.png" x="91" y="2251" width="1920" height="1080"/>
+	<SubTexture name="0009.png" x="2011" y="2251" width="1920" height="1080"/>
+	<SubTexture name="0010.png" x="3931" y="2251" width="1920" height="1080"/>
+	<SubTexture name="0011.png" x="5851" y="2251" width="1920" height="1080"/>
+	<SubTexture name="0012.png" x="91" y="3331" width="1920" height="1080"/>
+	<SubTexture name="0013.png" x="2011" y="3331" width="1920" height="1080"/>
+	<SubTexture name="0014.png" x="3931" y="3331" width="1920" height="1080"/>
+	<SubTexture name="0015.png" x="5851" y="3331" width="1920" height="1080"/>
+	<SubTexture name="0016.png" x="91" y="4411" width="1920" height="1080"/>
+	<SubTexture name="0017.png" x="2011" y="4411" width="1920" height="1080"/>
+	<SubTexture name="0018.png" x="3931" y="4411" width="1920" height="1080"/>
+	<SubTexture name="0019.png" x="5851" y="4411" width="1920" height="1080"/>
+	<SubTexture name="0020.png" x="91" y="5491" width="1920" height="1080"/>
+	<SubTexture name="0021.png" x="2011" y="5491" width="1920" height="1080"/>
+	<SubTexture name="0022.png" x="3931" y="5491" width="1920" height="1080"/>
+	<SubTexture name="0023.png" x="5851" y="5491" width="1920" height="1080"/>
+	<SubTexture name="0024.png" x="91" y="6571" width="1920" height="1080"/>
+	<SubTexture name="0025.png" x="2011" y="6571" width="1920" height="1080"/>
+	<SubTexture name="0026.png" x="3931" y="6571" width="1920" height="1080"/>
+	<SubTexture name="0027.png" x="5851" y="6571" width="1920" height="1080"/>
+</TextureAtlas>

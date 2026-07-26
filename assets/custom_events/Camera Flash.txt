@@ -1,0 +1,5 @@
+Adds a Camera Flash
+
+Value 1: Color (Hex, ex: FFFFFF)
+
+Value 2: Tween Duration

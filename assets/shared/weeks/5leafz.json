@@ -1,0 +1,50 @@
+{
+	"songs": [
+		[
+			"5forever",
+			"face",
+			[
+				120,
+				120,
+				120
+			]
+		],
+		[
+			"hoodrich",
+			"face",
+			[
+				120,
+				120,
+				120
+			]
+		],
+		[
+			"cannabis",
+			"face",
+			[
+				120,
+				120,
+				120
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"story_bg_color": [
+		120,
+		120,
+		120
+	],
+	"difficulties": "",
+	"weekCharacters": [
+		"bf",
+		"bf",
+		"gf"
+	],
+	"storyName": "5leafz",
+	"weekName": "Custom Week",
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

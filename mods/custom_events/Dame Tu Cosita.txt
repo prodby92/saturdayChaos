@@ -1,0 +1,7 @@
+The Classic Dame Tu Cosita Move
+(Also just a character bounce)
+
+Value 1: Character (dad, boyfriend)
+
+Value 2: The animation that will play
+along with the jump

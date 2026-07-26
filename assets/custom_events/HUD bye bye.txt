@@ -1,0 +1,5 @@
+tweens the hud alpha
+
+val 1: desired alpha
+
+val 2: duration of tween

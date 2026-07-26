@@ -1,0 +1,83 @@
+{
+	"camera_boyfriend": [
+		-220,
+		-15
+	],
+	"_editorMeta": {
+		"boyfriend": "pico-playable",
+		"gf": "nene",
+		"dad": "darnell"
+	},
+	"preload": {
+		"images/phillyStreets/phillySmog": 2,
+		"images/phillyStreets/phillySkybox": 2,
+		"images/abot/abotSystem/": 3,
+		"images/phillyStreets/phillyHighwayLights_lightmap": 2,
+		"images/phillyStreets/phillyForeground": 3,
+		"images/abot/": 3,
+		"images/phillyStreets/phillyForegroundCity": 2,
+		"images/abot/systemEyes/": 3,
+		"images/SpraycanPile": 3,
+		"images/phillyStreets/phillyHighwayLights": 3,
+		"images/phillyStreets/phillyCars": 2,
+		"images/phillyStreets/phillyTraffic_lightmap": 2,
+		"images/phillyStreets/phillyTraffic": 2,
+		"images/phillyStreets/phillySkyline": 2,
+		"images/phillyStreets/phillyConstruction": 3,
+		"images/phillyStreets/phillyHighway": 3
+	},
+	"girlfriend": [
+		1175,
+		200
+	],
+	"stageUI": "",
+	"boyfriend": [
+		1740,
+		450
+	],
+	"objects": [
+		{
+			"type": "gf"
+		},
+		{
+			"x": 540,
+			"y": 260,
+			"scale": [
+				10000,
+				10000
+			],
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "sprite1",
+			"scroll": [
+				1,
+				1.05
+			],
+			"alpha": 1,
+			"type": "square"
+		},
+		{
+			"type": "dad"
+		},
+		{
+			"type": "boyfriend"
+		}
+	],
+	"camera_girlfriend": [
+		0,
+		0
+	],
+	"defaultZoom": 0.77,
+	"camera_speed": 5,
+	"directory": "weekend1",
+	"opponent": [
+		1005,
+		495
+	],
+	"camera_opponent": [
+		450,
+		-110
+	],
+	"hide_girlfriend": true
+}

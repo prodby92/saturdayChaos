@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"offsets": [-15, -8],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "TANKMAN UGH"
+		},
+		{
+			"offsets": [1, 16],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "PRETTY GOOD tankman"
+		},
+		{
+			"offsets": [48, 54],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "Tankman UP note MISS"
+		},
+		{
+			"offsets": [76, -101],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "Tankman DOWN note MISS"
+		},
+		{
+			"offsets": [84, -14],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "Tankman Right Note MISS"
+		},
+		{
+			"offsets": [-21, -31],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "Tankman Note Left MISS"
+		},
+		{
+			"loop": false,
+			"offsets": [-146, -162],
+			"anim": "idle",
+			"fps": 30,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-132, -106],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-96, -174],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-141, -161],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-114, -271],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-190, -260],
+			"anim": "monkey",
+			"fps": 24,
+			"name": "monkey",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": true,
+	"image": "characters/yungdih",
+	"position": [0, 240],
+	"healthicon": "yungdih",
+	"flip_x": false,
+	"healthbar_colors": [255, 255, 255],
+	"camera_position": [-120, 150],
+	"sing_duration": 4,
+	"scale": 2.9,
+	"_editor_isPlayer": false
+}

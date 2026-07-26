@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="lolipop.png">
+<SubTexture name="lolipop0000" x="0" y="0" width="476" height="487" frameX="0" frameY="0" frameWidth="468" frameHeight="479" />
+<SubTexture name="lolipop0001" x="476" y="0" width="476" height="487" frameX="0" frameY="0" frameWidth="468" frameHeight="479" />
+</TextureAtlas>

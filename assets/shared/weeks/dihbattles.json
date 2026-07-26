@@ -1,0 +1,41 @@
+{
+	"storyName": "DIH BATTLES",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"story_bg_color": [
+		255,
+		255,
+		255
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"pico",
+		"gf",
+		"darnell"
+	],
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"dih",
+			"yungdih",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"cockblock",
+			"yungdih",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"weekName": "DIH BATTLE",
+	"hiddenUntilUnlocked": false
+}

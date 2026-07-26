@@ -1,0 +1,27 @@
+{
+	"storyName": "FrankieAlbum",
+	"difficulties": "Low Power Mode, Hard, 1%",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"pinkstep",
+			"frankie",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "frankieAlbum"
+}

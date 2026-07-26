@@ -1,0 +1,47 @@
+{
+	"camera_boyfriend": [
+		-400,
+		-300
+	],
+	"_editorMeta": {
+		"boyfriend": "bf",
+		"dad": "dad",
+		"gf": "gf"
+	},
+	"boyfriend": [
+		900,
+		00
+	],
+	"stageUI": "",
+	"girlfriend": [
+		400,
+		130
+	],
+	"defaultZoom": 0.35,
+	"objects": [
+		{
+			"type": "gf"
+		},
+		{
+			"type": "dad"
+		},
+		{
+			"type": "boyfriend"
+		}
+	],
+	"camera_girlfriend": [
+		0,
+		0
+	],
+	"opponent": [
+		-900,
+		-20
+	],
+	"directory": "week1",
+	"camera_speed": 1,
+	"hide_girlfriend": true,
+	"camera_opponent": [
+		300,
+		-300
+	]
+}

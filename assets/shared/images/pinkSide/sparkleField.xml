@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="sparkleField.png">
+<SubTexture name="sparkleField0000" x="0" y="0" width="3985" height="2276" frameX="0" frameY="0" frameWidth="3977" frameHeight="2268" />
+<SubTexture name="sparkleField0001" x="3985" y="0" width="3985" height="2276" frameX="0" frameY="0" frameWidth="3977" frameHeight="2268" />
+<SubTexture name="sparkleField0002" x="0" y="2276" width="3985" height="2276" frameX="0" frameY="0" frameWidth="3977" frameHeight="2268" />
+<SubTexture name="sparkleField0003" x="3985" y="2276" width="3985" height="2276" frameX="0" frameY="0" frameWidth="3977" frameHeight="2268" />
+</TextureAtlas>

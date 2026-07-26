@@ -1,0 +1,86 @@
+{
+	"storyName": "Your New Week",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"story_bg_color": [
+		255,
+		255,
+		35
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"fat fucking baby",
+			"face",
+			[
+				255,
+				255,
+				35
+			]
+		],
+		[
+			"frist mod",
+			"sleepy",
+			[
+				255,
+				0,
+				0
+			]
+		],
+				[
+			"sporting 92 mix",
+			"sleepy",
+			[
+				255,
+				0,
+				0
+			]
+		],
+				[
+			"trxgic",
+			"face",
+			[
+				255,
+				0,
+				0
+			]
+		],
+				[
+			"bleood",
+			"face",
+			[
+				255,
+				0,
+				0
+			]
+		],
+						[
+			"che",
+			"face",
+			[
+				255,
+				0,
+				0
+			]
+		],
+						[
+			"dante",
+			"face",
+			[
+				255,
+				0,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"bf",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}

@@ -1,0 +1,41 @@
+{
+	"songs": [
+		[
+			"jeff",
+			"face",
+			[
+				75,
+				0,
+				0
+			]
+		],
+		[
+			"area 51",
+			"face",
+			[
+				75,
+				0,
+				0
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"story_bg_color": [
+		75,
+		0,
+		0
+	],
+	"difficulties": "",
+	"weekCharacters": [
+		"bf",
+		"bf",
+		"gf"
+	],
+	"storyName": "2_032s",
+	"weekName": "",
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

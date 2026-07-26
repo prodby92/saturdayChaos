@@ -1,0 +1,77 @@
+{
+	"storyName": "92",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"story_bg_color": [
+		255,
+		0,
+		0
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"sleepy",
+			"sleepy",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"woke",
+			"sleepy",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"92",
+			"sleepy",
+			[
+				255,
+				0,
+				0
+			]
+		],
+				[
+			"2024",
+			"sleepy",
+			[
+				255,
+				0,
+				0
+			]
+		],
+				[
+			"92 minutes",
+			"sleepy",
+			[
+				255,
+				0,
+				0
+			]
+		],
+				[
+			"92exe",
+			"sleepy",
+			[
+				255,
+				0,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"bf",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}
